@@ -1,2 +1,2 @@
-# test_SDL2_c
+# Test - SDL2
 - simple test using SDL2 library (c)
