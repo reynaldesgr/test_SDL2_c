@@ -3,7 +3,7 @@
 
 
 ![image](https://zupimages.net/up/22/36/up2z.png)
-- you can fill every cases in white :
+- You can fill every cases in white :
 
 
 ![image](https://zupimages.net/up/22/36/io9x.png)
